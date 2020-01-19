@@ -81,11 +81,11 @@ html, body {
 
 @font-face {
   font-family: 'iconfont';  /* project id 934283 */
-  src: url('http://at.alicdn.com/t/font_934283_rjwklbuzkg.eot');
-  src: url('http://at.alicdn.com/t/font_934283_rjwklbuzkg.eot?#iefix') format('embedded-opentype'),
-  url('http://at.alicdn.com/t/font_934283_rjwklbuzkg.woff') format('woff'),
-  url('http://at.alicdn.com/t/font_934283_rjwklbuzkg.ttf') format('truetype'),
-  url('http://at.alicdn.com/t/font_934283_rjwklbuzkg.svg#iconfont') format('svg');
+  src: url('https://at.alicdn.com/t/font_934283_rjwklbuzkg.eot');
+  src: url('https://at.alicdn.com/t/font_934283_rjwklbuzkg.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_934283_rjwklbuzkg.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_934283_rjwklbuzkg.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_934283_rjwklbuzkg.svg#iconfont') format('svg');
 }
 @-webkit-keyframes rotate { 
   from {
@@ -171,8 +171,8 @@ html, body {
 }
 #play-btn {
   position: absolute;
-  top: 16px;
-  right: 20px;
+  top: 40px;
+  right: 15px;
   z-index: 30;
   width: 34px;
   height: 34px;

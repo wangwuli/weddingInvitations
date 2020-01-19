@@ -1,0 +1,4 @@
+#https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud
+flask=1.1.1
+flask_script=2.0.6
+paramiko=2.7.0
